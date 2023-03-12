@@ -16,7 +16,7 @@
         "tsConfig": "apps/ang-form/tsconfig.app.json",
         "inlineStyleLanguage": "scss",
         "assets": ["apps/ang-form/src/favicon.ico", "apps/ang-form/src/assets"],
-        "styles": ["apps/ang-form/src/styles.scss"],
+        "styles": ["apps/ang-form/src/styles.scss","node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css"],
         "scripts": []
       },
       "configurations": {
